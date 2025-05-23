@@ -34,6 +34,8 @@ Hence, it serves as a foundation for data-driven decisions to enhance call centr
 
 **VISUALS**
 
+![](https://github.com/Aijay99/Q1-call-centre-performance-analysis./blob/main/screenshot.jpg)
+
 
 
 **ANALYSIS**
